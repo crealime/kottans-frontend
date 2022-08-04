@@ -1,4 +1,6 @@
-# General
+# Hi all. My name is Serhii.
+I am a freelancer, designer and starter developer. I love learning, and I hope to get new knowledge here to improve my products. Particular in front-end development, teamwork and new technologies. Good luck to everyone on the course!
+
 ## Git Basics
 
 ### Introduction to Git and GitHub
@@ -16,8 +18,8 @@
 
 ### Learn Git Branching
 - I learned new commands rebase, cherry-pick, began to better understand the concept of HEAD.
-- I was surprised that there is such convenient interactive program for learning
-- I'll try to use cherry-pick in my work
+- I was surprised that there is such convenient interactive program for learning.
+- I'll try to use cherry-pick in my work.
 
 <details>
 <summary>Screenshots</summary>
@@ -27,5 +29,24 @@
 
 </details>
 
+## Linux CLI, and HTTP
 
+<details>
+<summary>Screenshots</summary>
 
+![](task_linux_cli/linux-01.png)
+![](task_linux_cli/linux-02.png)
+![](task_linux_cli/linux-03.png)
+![](task_linux_cli/linux-04.png)
+
+</details>
+
+### Linux Survival
+- Until that time, I used a minimum of commands in the terminal (cd, mkdir, ls). Everything else was new and interesting for me.
+- To be honest, I did not want to use the terminal in my work, because I thought it would be hard to remember all the commands. It turned out that there are not so many basic commands, and it is not difficult to remember them.
+- I'll try to use all of this commands in my work. Maybe I even install Linux or rent a server for practice.
+
+### HTTP Protocol
+- I already knew most of the information about HTTP. Reading articles allowed to structure it.
+- I was surprised how many headers are used to communicate between server and client.
+- I'll read more about headers and try to use them.
