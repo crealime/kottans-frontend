@@ -50,3 +50,26 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I already knew most of the information about HTTP. Reading articles allowed to structure it.
 - I was surprised how many headers are used to communicate between server and client.
 - I'll read more about headers and try to use them.
+
+## Git Collaboration
+
+<details>
+<summary>Screenshots</summary>
+
+![](task_git_collaboration/git-05.png)
+![](task_git_collaboration/git-06.png)
+![](task_git_collaboration/git-07.png)
+![](task_git_collaboration/git-08.png)
+
+</details>
+
+### Introduction to Git and GitHub
+- There is a lot of information in this part of the course. And fll this was new to me.
+- I was surprised how many useful commands Git includes. I'm interested to reading more about the history of Linux and Git.
+- I hope that I will use all these commands correctly.
+
+### Learn Git Branching
+- Some tasks were difficult for me, but I did it. I got more understanding.
+- I was surprised by the flexibility and useful command combinations.
+- I can't wait to use it all in real work.
+
