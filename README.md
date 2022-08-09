@@ -73,3 +73,20 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I was surprised by the flexibility and useful command combinations.
 - I can't wait to use it all in real work.
 
+## Intro to HTML and CSS
+
+<details>
+<summary>Screenshots</summary>
+
+![](task_html_css_intro/html-css-intro-01.png)
+![](task_html_css_intro/html-css-intro-02.png)
+![](task_html_css_intro/html-css-intro-03.png)
+![](task_html_css_intro/html-css-intro-04.png)
+
+</details>
+
+### Intro to HTML & CSS | Learn HTML | Learn CSS
+- I already knew these technologies at this level. But I repeated everything with pleasure.
+- I was surprised that the html tag has position relative as default (although it is logical). I thought that all elements have a static position by default.
+- I will use all these features.
+
