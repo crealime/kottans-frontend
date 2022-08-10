@@ -90,3 +90,67 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I was surprised that the html tag has position relative as default (although it is logical). I thought that all elements have a static position by default.
 - I will use all these features.
 
+## Responsive Web Design
+
+<details>
+<summary>Screenshots</summary>
+
+![](task_responsive_web_design/responsive-web-design-01.png)
+![](task_responsive_web_design/responsive-web-design-02.png)
+![](task_responsive_web_design/responsive-web-design-03.png)
+![](task_responsive_web_design/responsive-web-design-04.png)
+![](task_responsive_web_design/responsive-web-design-05.png)
+![](task_responsive_web_design/responsive-web-design-06.png)
+![](task_responsive_web_design/responsive-web-design-07.png)
+![](task_responsive_web_design/responsive-web-design-08.png)
+![](task_responsive_web_design/responsive-web-design-09.png)
+![](task_responsive_web_design/responsive-web-design-10.png)
+![](task_responsive_web_design/responsive-web-design-11.png)
+![](task_responsive_web_design/responsive-web-design-12.png)
+![](task_responsive_web_design/responsive-web-design-13.png)
+![](task_responsive_web_design/responsive-web-design-14.png)
+![](task_responsive_web_design/responsive-web-design-15.png)
+![](task_responsive_web_design/responsive-web-design-16.png)
+![](task_responsive_web_design/responsive-web-design-17.png)
+![](task_responsive_web_design/responsive-web-design-18.png)
+![](task_responsive_web_design/responsive-web-design-19.png)
+![](task_responsive_web_design/responsive-web-design-20.png)
+![](task_responsive_web_design/responsive-web-design-21.png)
+![](task_responsive_web_design/responsive-web-design-22.png)
+![](task_responsive_web_design/responsive-web-design-23.png)
+![](task_responsive_web_design/responsive-web-design-24.png)
+![](task_responsive_web_design/responsive-web-design-31.png)
+![](task_responsive_web_design/responsive-web-design-32.png)
+![](task_responsive_web_design/responsive-web-design-33.png)
+![](task_responsive_web_design/responsive-web-design-34.png)
+![](task_responsive_web_design/responsive-web-design-35.png)
+![](task_responsive_web_design/responsive-web-design-36.png)
+![](task_responsive_web_design/responsive-web-design-37.png)
+![](task_responsive_web_design/responsive-web-design-38.png)
+![](task_responsive_web_design/responsive-web-design-39.png)
+![](task_responsive_web_design/responsive-web-design-40.png)
+![](task_responsive_web_design/responsive-web-design-41.png)
+![](task_responsive_web_design/responsive-web-design-42.png)
+![](task_responsive_web_design/responsive-web-design-43.png)
+![](task_responsive_web_design/responsive-web-design-44.png)
+![](task_responsive_web_design/responsive-web-design-45.png)
+![](task_responsive_web_design/responsive-web-design-46.png)
+![](task_responsive_web_design/responsive-web-design-47.png)
+![](task_responsive_web_design/responsive-web-design-48.png)
+![](task_responsive_web_design/responsive-web-design-49.png)
+![](task_responsive_web_design/responsive-web-design-50.png)
+![](task_responsive_web_design/responsive-web-design-51.png)
+![](task_responsive_web_design/responsive-web-design-52.png)
+![](task_responsive_web_design/responsive-web-design-53.png)
+![](task_responsive_web_design/responsive-web-design-54.png)
+![](task_responsive_web_design/responsive-web-design-55.png)
+![](task_responsive_web_design/responsive-web-design-56.png)
+![](task_responsive_web_design/responsive-web-design-57.png)
+![](task_responsive_web_design/responsive-web-design-58.png)
+
+</details>
+
+### Responsive web design basics | Flexbox | Flexbox Froggy | CSS Grid Layout | Grid Garden 
+- I have already worked with these technologies. But I learned a new value "space-evenly".
+- I was surprised how many variations these methods have. And I really liked the games.
+- I will use Flexbox and Grid Layout in the future.
