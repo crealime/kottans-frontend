@@ -154,3 +154,22 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I have already worked with these technologies. But I learned a new value "space-evenly".
 - I was surprised how many variations these methods have. And I really liked the games.
 - I will use Flexbox and Grid Layout in the future.
+
+## JS Basics
+
+<details>
+<summary>Screenshots</summary>
+
+![](task_js_basics/task_js_basics-00.jpg)
+![](task_js_basics/task_js_basics-01.png)
+![](task_js_basics/task_js_basics-02.png)
+![](task_js_basics/task_js_basics-03.png)
+![](task_js_basics/task_js_basics-04.png)
+![](task_js_basics/task_js_basics-05.png)
+![](task_js_basics/task_js_basics-06.png)
+
+</details>
+
+- I repeated the basics of JavaScript with pleasure. It was new for me: `import * as` `prop in object` `str.endsWith()` `str.repeat()`.
+- I was surprised that I didn't know a great service freeCodeCamp.
+- It's still not clear to me how closures can be used in real practice. But I hope to use it soon.
