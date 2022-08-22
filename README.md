@@ -155,6 +155,12 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I was surprised how many variations these methods have. And I really liked the games.
 - I will use Flexbox and Grid Layout in the future.
 
+## HTML-CSS-Popup
+
+- It was a very cool practice! New for me was actually using Git in collaboration with mentor.
+- I was pleasantly surprised by the mentor's support. Thanks to @kasionio!
+- I experienced great joy after the merge. Moving on to a new challenge!
+
 ## JS Basics
 
 <details>
