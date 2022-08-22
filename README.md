@@ -162,7 +162,7 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 
 
 - It was a very cool practice! New for me was actually using Git in collaboration with mentor.
-- I was pleasantly surprised by the mentor's support. Thanks to @kasionio!
+- I was pleasantly surprised by the mentor's support. Thanks to [kasionio](https://github.com/kasionio "kasionio")!
 - I experienced great joy after the merge. Moving on to a new challenge!
 
 ## JS Basics
