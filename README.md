@@ -183,3 +183,20 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I repeated the basics of JavaScript with pleasure. It was new for me: `import * as` `prop in object` `str.endsWith()` `str.repeat()`.
 - I was surprised that I didn't know a great service freeCodeCamp.
 - It's still not clear to me how closures can be used in real practice. But I hope to use it soon.
+
+## Object-Oriented JavaScript
+
+<details>
+<summary>Screenshots</summary>
+
+![](task_js_oop/task-js-oop-001.png)
+![](task_js_oop/task-js-oop-002.png)
+![](task_js_oop/task-js-oop-003.png)
+
+</details>
+
+- Now I'm starting to understand why in Javascript OOP. Frogger Game is very cool! At first it was really difficult for me, but then I hardly stopped adding new features. Thanks to the mentor for helping me improve my code.
+- I was surprised by the possibilities of canvas.
+- I will try to use OOP in future work.
+
+[Demo](https://crealime.github.io/frogger-game "Demo") | [Code base](https://github.com/crealime/frogger-game "Code base")
