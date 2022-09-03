@@ -184,6 +184,21 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I was surprised that I didn't know a great service freeCodeCamp.
 - It's still not clear to me how closures can be used in real practice. But I hope to use it soon.
 
+## Document Object Model
+
+<details>
+<summary>Screenshots</summary>
+
+![](task_js_dom/task-js-dom-01.jpg)
+![](task_js_dom/task-js-dom-02.png)
+
+</details>
+
+- I really enjoyed this practice. This exercise allowed ме to be creative, both in code and in design. Knowledge of flex and grid helped a lot.
+- I continue to study and complete the following tasks.
+
+[Demo](https://crealime.github.io/dom/dist "Demo") | [Code base](https://github.com/crealime/dom "Code base")
+
 ## Object-Oriented JavaScript
 
 <details>
