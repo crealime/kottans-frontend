@@ -199,6 +199,12 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 
 [Demo](https://crealime.github.io/dom/dist "Demo") | [Code base](https://github.com/crealime/dom "Code base")
 
+## Building a Tiny JS World
+
+- I was very inattentive to the task. Remodeled several times. I understand that there is a lack of experience.
+
+[Demo](https://crealime.github.io/a-tiny-JS-world "Demo") | [Code base](https://github.com/crealime/a-tiny-JS-world "Code base")
+
 ## Object-Oriented JavaScript
 
 <details>
