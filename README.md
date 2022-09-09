@@ -221,3 +221,11 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I will try to use OOP in future work.
 
 [Demo](https://crealime.github.io/frogger-game "Demo") | [Code base](https://github.com/crealime/frogger-game "Code base")
+
+## Tic-tac-toe
+
+- It was a very interesting activity. I feel that the code is too far from ideal. It seems to me that there are too many functions and conditions. 
+- It is a pity that I could not implement the application in Ukrainian. In Ukrainian localization it would be much more fun.
+- I will try to improve my code.
+
+[Demo](https://crealime.github.io/tic-tac-toe "Demo") | [Code base](https://github.com/crealime/tic-tac-toe "Code base")
