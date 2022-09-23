@@ -229,3 +229,17 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I will try to improve my code.
 
 [Demo](https://crealime.github.io/tic-tac-toe "Demo") | [Code base](https://github.com/crealime/tic-tac-toe "Code base")
+
+## Offline Web Applications
+
+<details>
+<summary>Screenshot</summary>
+
+![](task_offline_web_app/offline-web-app.png)
+
+</details>
+
+- Definitely a useful course. Earlier I heard about the possibility of implementing Offline Web Applications, but now I got acquainted with the technique directly. In addition to great knowledge, the teachers showed a wonderful sense of humor. To be honest, almost everything about this course was new to me. 
+- I was surprised how effectively various parts of the system can interact: the browser with its cache and the service worker, proxy caching and the server.
+- Without a doubt, I need to watch the course one more time to consolidate the knowledge and try to create something of my own to practice. I hope this knowledge will be useful to me.
+
