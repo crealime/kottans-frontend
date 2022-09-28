@@ -222,14 +222,6 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 
 [Demo](https://crealime.github.io/frogger-game "Demo") | [Code base](https://github.com/crealime/frogger-game "Code base")
 
-## Tic-tac-toe
-
-- It was a very interesting activity. I feel that the code is too far from ideal. It seems to me that there are too many functions and conditions. 
-- It is a pity that I could not implement the application in Ukrainian. In Ukrainian localization it would be much more fun.
-- I will try to improve my code.
-
-[Demo](https://crealime.github.io/tic-tac-toe "Demo") | [Code base](https://github.com/crealime/tic-tac-toe "Code base")
-
 ## Offline Web Applications
 
 <details>
@@ -243,3 +235,24 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I was surprised how effectively various parts of the system can interact: the browser with its cache and the service worker, proxy caching and the server.
 - Without a doubt, I need to watch the course one more time to consolidate the knowledge and try to create something of my own to practice. I hope this knowledge will be useful to me.
 
+## Website Performance Optimization
+
+<details>
+<summary>Screenshot</summary>
+
+![](task_website_performance/website-performance-001.png)
+![](task_website_performance/website-performance-002.png)
+
+</details>
+
+- Almost everything in this section was new to me. This is a huge amount of information that I can not remember the first time. However, now I know where to look for this information. Unfortunately, some points in the courses are outdated. I could not run one of the Gulp build.
+- I finally found out how to test applications on a real mobile device.
+- At this point, I'm starting to understand how much a front-end developer needs to know and how much to use to improve performance and user experience.
+
+## Tic-tac-toe
+
+- It was a very interesting activity. I feel that the code is too far from ideal. It seems to me that there are too many functions and conditions.
+- It is a pity that I could not implement the application in Ukrainian. In Ukrainian localization it would be much more fun.
+- I will try to improve my code.
+
+[Demo](https://crealime.github.io/tic-tac-toe "Demo") | [Code base](https://github.com/crealime/tic-tac-toe "Code base")
