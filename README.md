@@ -222,6 +222,13 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 
 [Demo](https://crealime.github.io/frogger-game "Demo") | [Code base](https://github.com/crealime/frogger-game "Code base")
 
+## OOP exercise
+
+- It was one of the most difficult tasks for me. However, I think I'm starting to understand some OOP principles.
+- I have a lot to learn to refactor my code. This is the main task for me at the moment.
+
+[Demo](https://crealime.github.io/a-tiny-JS-world "Demo") | [Code base](https://github.com/crealime/a-tiny-JS-world "Code base")
+
 ## Offline Web Applications
 
 <details>
