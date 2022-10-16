@@ -242,6 +242,14 @@ I am a freelancer, designer and starter developer. I love learning, and I hope t
 - I was surprised how effectively various parts of the system can interact: the browser with its cache and the service worker, proxy caching and the server.
 - Without a doubt, I need to watch the course one more time to consolidate the knowledge and try to create something of my own to practice. I hope this knowledge will be useful to me.
 
+## Memory Pair Game
+
+- This was the most interesting task for me. I think that I managed to create a complete application.
+- I learned about new features for me: response.ok checking in fetch, event.currentTarget for getting element, whose eventListener triggered the event.
+- I put the new knowledge in the piggy bank to use them in the future.
+
+[Demo](https://crealime.github.io/memory-pair-game "Demo") | [Code base](https://github.com/crealime/memory-pair-game "Code base")
+
 ## Website Performance Optimization
 
 <details>
